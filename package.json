@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch-tests": "jest --watch"
   },
   "license": "ISC",
   "devDependencies": {
